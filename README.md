@@ -53,19 +53,19 @@ channels. One HTML document, zero dependencies.
 
 `HTML` `CSS` `JavaScript` &nbsp;·&nbsp; [Live site](https://portfolio-lohith-1e2a.vercel.app)
 
-### E-Commerce Management System
+### [E-Commerce Management System](https://github.com/lohith-hash/ecommerce-management-system)
 
 A Java console application covering customer and seller accounts, a product catalogue, cart,
 checkout, payment and order history, with records persisted to plain text files. Eleven classes,
 no external libraries — my main exercise in object-oriented design and file handling.
 
-`Java`
+`Java` &nbsp;·&nbsp; [Source](https://github.com/lohith-hash/ecommerce-management-system)
 
 ## Currently
 
 - Preparing for **AP ECET** (CSE, Mathematics, Physics, Chemistry)
 - Strengthening programming fundamentals in **Python** and **Java**
-- Improving accessibility and performance in the two sites above
+- Improving accessibility and performance in the projects above
 
 ## Get in touch
 
